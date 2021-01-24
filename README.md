@@ -7,4 +7,5 @@ the increase in the total conversion of users from the EU at each stage of the `
 
 This repository is an attempt to answer what really happened.
 
-The analytical task to study the results of A / B testing, the dataset and test results files used in this project are dummies. The project was created exclusively for practice.
+The project was created exclusively for practice.
+
